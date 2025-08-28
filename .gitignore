@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+venv/
+.env
+
+# Data (Optional - if your data file is very large)
+# data/traffic_data_raw.csv

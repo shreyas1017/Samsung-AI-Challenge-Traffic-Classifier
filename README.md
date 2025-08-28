@@ -3,7 +3,7 @@
 - **Problem Statement** - Real-time Detection of Reel Traffic vs Non-reel Traffic in a Social-networking Application
 - **Team name** - `Unga Bunga`
 - **Team members (Names)** - `P P L Narasimha`, `P Nihar Reddy`, `Rishi Dave`, `Shreyas Patil`
-- **Demo Video Link** - `[YOUR PUBLIC OR UNLISTED YOUTUBE LINK]`
+- **Demo Video Link** - Unavailable
 
 ## Project Artefacts
 

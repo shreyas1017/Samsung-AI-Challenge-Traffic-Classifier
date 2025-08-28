@@ -65,12 +65,12 @@ Since this is a command-line tool, the UI/UX is focused on providing a clear, in
 
 **Training Script Output (`python src/train.py`)**
 
-!(../images/train_output_1.png)
-!(../images/train_output_2.png)
+!(./docs/images/train_output_1.png)
+!(./docs/images/train_output_2.png)
 
 **Prediction Script Output (`python src/predict.py`)**
 
-!(../images/predict_output.png)
+!(./docs/images/predict_output.png)
 
 ## 6. Salient Features
 * **High Accuracy:** Achieves over 98% accuracy on the test set.

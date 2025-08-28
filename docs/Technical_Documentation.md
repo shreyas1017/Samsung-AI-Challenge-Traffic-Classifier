@@ -74,7 +74,7 @@ Since this is a command-line tool, the UI/UX is focused on providing a clear, in
 
 **Prediction Script Output (`python src/predict.py`)**
 
-!(./docs/images/predict_output.png)
+<td><img src="./images/predict_output.png" alt="Prediction screenshot"></td>
 
 ## 6. Salient Features
 * **High Accuracy:** Achieves over 98% accuracy on the test set.

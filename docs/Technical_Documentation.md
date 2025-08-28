@@ -65,8 +65,12 @@ Since this is a command-line tool, the UI/UX is focused on providing a clear, in
 
 **Training Script Output (`python src/train.py`)**
 
-!(./docs/images/train_output_1.png)
-!(./docs/images/train_output_2.png)
+<table>
+<tr>
+<td><img src="./images/train_output_1.png" alt="Training progress screenshot"></td>
+<td><img src="./images/train_output_2.png" alt="Final training report screenshot"></td>
+</tr>
+</table>
 
 **Prediction Script Output (`python src/predict.py`)**
 
